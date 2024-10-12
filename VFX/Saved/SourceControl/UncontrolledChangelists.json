@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Changelist non controllate predefinite",
 			"files": [
-				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Levels/Main.umap"
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Levels/Main.umap",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/NS_empty.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NS_Particles.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NSParticles.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NS_Smoke.uasset"
 			]
 		}
 	]
