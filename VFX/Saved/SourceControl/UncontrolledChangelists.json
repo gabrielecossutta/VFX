@@ -6,10 +6,29 @@
 			"description": "Changelist non controllate predefinite",
 			"files": [
 				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Levels/Main.umap",
-				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/NS_empty.uasset",
 				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NS_Particles.uasset",
-				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NSParticles.uasset",
-				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NS_Smoke.uasset"
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NS_Smoke.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Sequences/SQ_MonsterAndHero.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NS_MonsterSmoke.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/mutant_M.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/MonsterIdle.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/Mutant_diffuse.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/Mutant_normal.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/MonsterIdle_Skeleton.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/MonsterIdle_PhysicsAsset.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/MonsterIdle_Anim.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/HeroesIdle.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/Paladin_MAT.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/Paladin_diffuse.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/Paladin_specular.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/Paladin_normal.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/HeroesIdle_Skeleton.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/HeroesIdle_PhysicsAsset.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Heroes/HeroesIdle_Anim.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/Meshes/Monster/Mutant_Emmision.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/Megascans/Surfaces/Layered_Shale_Beach_Rock_ukjjfhrlw/MI_Layered_Shale_Beach_Rock_ukjjfhrlw_2K.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/NS_empty.uasset",
+				"E:/ProgettiUnreal/VFX/VFX/Content/RedefineFX/VFX/NSParticles.uasset"
 			]
 		}
 	]

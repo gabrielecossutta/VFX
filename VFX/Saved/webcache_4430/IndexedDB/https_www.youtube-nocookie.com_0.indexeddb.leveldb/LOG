@@ -1,0 +1,6 @@
+2024/10/13-01:53:23.897 ad0 Creating DB E:/ProgettiUnreal/VFX/VFX/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/10/13-01:53:23.910 ad0 Reusing MANIFEST E:/ProgettiUnreal/VFX/VFX/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/13-02:00:40.104 ad0 Level-0 table #5: started
+2024/10/13-02:00:40.113 ad0 Level-0 table #5: 1167 bytes OK
+2024/10/13-02:00:40.118 ad0 Delete type=0 #3
+2024/10/13-02:00:40.118 ad0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
