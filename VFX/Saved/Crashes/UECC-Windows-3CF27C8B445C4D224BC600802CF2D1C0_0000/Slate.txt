@@ -1,0 +1,3 @@
+Thread: Game
+Context:'Paint' Type:'SWindow' Tag:'None' Location:'D:\build\++UE5\Sync\Engine\Source\Editor\MainFrame\Private\MainFrameModule.cpp_197'
+Context:'Prepass' Type:'SSequencerOutlinerViewRow' Tag:'None' Location:'D:\build\++UE5\Sync\Engine\Source\Editor\Sequencer\Private\MVVM\Views\SSequencerOutlinerView.cpp_78'
