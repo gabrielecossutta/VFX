@@ -1,0 +1,8 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 FRDGBuilder_Execute
+	01 Scene
+	02 Scene
+	03 LumenSceneLighting
+	04 DiffuseIndirectAndAO
+	05 FVirtualShadowMapArray::BuildPageAllocation
