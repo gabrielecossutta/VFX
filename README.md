@@ -3,37 +3,38 @@ This VFX project is a curated set of unique visual effects, crafted to enhance i
 
 
 ### Effects:
-[**Portal**](#Portal)
 
-[**Monster Sceme**](#Monster)
+[**Protective Shield**](#Shield)
 
 [**Charged Explosion**](#Charged)
+
+[**Monster Sceme**](#Monster)
 
 [**Energy Blast**](#Energy)
 
 [**Mesh Smoke**](#Mesh)
 
-[**Protective Shield**](#Shield)
-
 [**Water**](#Water)
 
-# Portal
-### A swirling, mystical dimensional gateway suspended in mid-air, emitting ethereal energy.
-This effect is designed to suggest interdimensional travel or teleportation, with animated patterns that spiral adding depth and motion through dynamic noise patterns, drawing the viewer's eye toward its center. The portal feels like a gateway to another realm, adding a fantastical and immersive touch
+[**Portal**](#Portal)
 
-![portal](./VFX/Saved/VideoCaptures/GIF/portal.gif)
+# Protective Shield
+### The shield effect creates a protective, transparent barrier with animated impact.
+A transparent bubble that surrounds the character, acting as a protective barrier against external threats. When struck by a fiery beam, the bubble responds by absorbing the impact and deflecting the heat. This effect conveys a sense of safety and resilience
 
-# Monster Scene
-### The monster Scene emphasizes environmental interaction smoke. 
-The effect gives the monster a disturbing appearance, with glowing eyes and arms that create a menacing. This effect enhances the creature's intimidation, making it ideal for scenes that require a powerful boss
-
-![Monster](./VFX/Saved/VideoCaptures/GIF/Monster.gif)
+![shield](./VFX/Saved/VideoCaptures/GIF/shield.gif)
 
 # Charged Explosion
 ###  This effect replicates a magical explosion, involving smoke and embers. 
 A sudden, powerful burst of mana, creating an intense visual impact. The explosion is quick and dramatic, with mana and smoke expanding outward, followed by dissipating embers. This effect captures the raw energy of an explosion, adding intensity and realism to combat scenes.
 
 ![explosion](./VFX/Saved/VideoCaptures/GIF/explosion.gif)
+
+# Monster Scene
+### The monster Scene emphasizes environmental interaction smoke. 
+The effect gives the monster a disturbing appearance, with glowing eyes and arms that create a menacing. This effect enhances the creature's intimidation, making it ideal for scenes that require a powerful boss
+
+![Monster](./VFX/Saved/VideoCaptures/GIF/Monster.gif)
 
 # Energy Blast
 ### The effect represents a energy pulse that affects nearby objects. 
@@ -47,14 +48,14 @@ Smoke continuously generate and rise from the character’s mesh as they move, c
 
 ![mesh](./VFX/Saved/VideoCaptures/GIF/mesh.gif)
 
-# Protective Shield
-### The shield effect creates a protective, transparent barrier with animated impact.
-A transparent bubble that surrounds the character, acting as a protective barrier against external threats. When struck by a fiery beam, the bubble responds by absorbing the impact and deflecting the heat. This effect conveys a sense of safety and resilience
-
-![shield](./VFX/Saved/VideoCaptures/GIF/shield.gif)
-
 # Water
 ### The effect simulates realistic water while emphasizing character interaction.
 A realistic, flowing water effect with gentle waves and ripples, creating an impression of movement and depth. This effect can simulate anything from a calm lake to a flowing stream.
 
 ![Water](./VFX/Saved/VideoCaptures/GIF/Water.gif)
+
+# Portal
+### A swirling, mystical dimensional gateway suspended in mid-air, emitting ethereal energy.
+This effect is designed to suggest interdimensional travel or teleportation, with animated patterns that spiral adding depth and motion through dynamic noise patterns, drawing the viewer's eye toward its center. The portal feels like a gateway to another realm, adding a fantastical and immersive touch
+
+![portal](./VFX/Saved/VideoCaptures/GIF/portal.gif)
